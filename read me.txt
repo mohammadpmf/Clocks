@@ -1,0 +1,7 @@
+In this project, Clocks of some places are shown in local time of their own timezone.
+libraries which are used are:
+
+tkinter
+datetime
+pytz
+:)
